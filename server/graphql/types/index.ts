@@ -4,4 +4,4 @@ export const queries = [File.Query]
 
 export const mutations = [File.Mutation]
 
-export const types = [File.Types]
+export const types = [...File.Types]
